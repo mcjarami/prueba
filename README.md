@@ -10,7 +10,7 @@ The goal of prueba is to …
 
 ## Installation
 
-You can install the development version of prueba ftom
+You can install the development version of prueba from
 [Github](https://github.com/) with:
 
 ``` r
