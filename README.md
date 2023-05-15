@@ -10,10 +10,13 @@ The goal of prueba is to …
 
 ## Installation
 
-You can install the development version of prueba like so:
+You can install the development version of prueba ftom
+[Github](https://github.com/) with:
 
 ``` r
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("mcjarami/prueba")
 ```
 
 ## Example

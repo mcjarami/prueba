@@ -22,10 +22,14 @@ The goal of prueba is to ...
 
 ## Installation
 
-You can install the development version of prueba like so:
+You can install the development version of prueba from
+[Github](https://github.com/) with:
+
 
 ``` r
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("mcjarami/prueba")
 ```
 
 ## Example
@@ -38,6 +42,7 @@ library(prueba)
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+
 
 ```{r cars}
 summary(cars)
