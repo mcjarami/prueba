@@ -2,7 +2,7 @@
 #'
 #' @param n tamano muestral
 #' @param media media poblacional
-#' @param desvi desviacion estadar
+#' @param desvi desviacion estadar poblacional
 #'
 #' @return un vector con el minimo y el maximo
 #' @export
